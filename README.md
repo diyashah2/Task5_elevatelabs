@@ -1,13 +1,13 @@
 # Titanic Dataset - EDA Summary
-Objective:
+- Objective:
 -  Explore the Titanic dataset to uncover patterns and insights related to passenger survival.
 
-Dataset Overview:
+- Dataset Overview:
 -  Total Records: 891 passengers
 -  Key Columns: Survived, Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
 -  Target Variable: Survived (0 = No, 1 = Yes)
 
-Data Cleaning:
+- Data Cleaning:
   Missing Values:
   -  Age: 177 missing → filled with median age
   -  Embarked: 2 missing → filled with mode ('S')
@@ -15,7 +15,7 @@ Data Cleaning:
   New Feature:
   -  FamilySize = SibSp + Parch + 1
 
-Key Insights:
+- Key Insights:
   Univariate Analysis:
   -  Survival: ~38% survived, with females having a higher survival rate than males.
   -  Passenger Class: Most passengers were in 3rd class. 1st class had the best survival rate.

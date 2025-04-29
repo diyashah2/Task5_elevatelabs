@@ -1,11 +1,11 @@
 # Titanic Dataset - EDA Summary
 - Objective:
--  Explore the Titanic dataset to uncover patterns and insights related to passenger survival.
+  -  Explore the Titanic dataset to uncover patterns and insights related to passenger survival.
 
 - Dataset Overview:
--  Total Records: 891 passengers
--  Key Columns: Survived, Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
--  Target Variable: Survived (0 = No, 1 = Yes)
+  -  Total Records: 891 passengers
+  -  Key Columns: Survived, Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
+  -  Target Variable: Survived (0 = No, 1 = Yes)
 
 - Data Cleaning:
   - Missing Values:
